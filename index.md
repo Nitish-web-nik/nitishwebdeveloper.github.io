@@ -17,12 +17,12 @@
 	    
 	</nav>
 	<section>
-	    <h2>Favorite Foods</h2>
+	    <h2>Favorite Movies</h2>
 	    <ul>
-	        <li>Mango</li>
-	        <li>Litchi</li>
-	        <li>Liti chokha</li>
-	        <li>Palak Paneer</li>
+	        <li>Aruvi</li>
+	        <li>Tadham</li>
+	        <li>Awe!</li>
+	        <li>'96/li>
 	    </ul>
 	</section>
 	<section>
@@ -42,7 +42,7 @@
 	</section>
 	<footer>
 	    <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">
-	    <p>This page was created by Nitish and Colleen van Lent. To learn more about web design, visit<a href="http://www.intro-webdesign.com">Intro to Web Design</a>.</p>
+	    <p>This page was created by Nitish and Colleen van Lent. To learn more about web design, visit<a href="http://www.intro-webdesign.com"> Intro to Web Design</a</p>
 	</footer>
 	    
 	</body>
